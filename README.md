@@ -20,4 +20,4 @@ NextDNS kullanarak engelleyebiliriz. Kontrol panelinde, güvenlik sekmesinde TLD
 
 Peki başka ne var?
 Tarayıcı eklentilerinden uBlock Origin'i kullanabiliriz.
-İster filtrelerim bölümüne gelin ve listeyi tamamen yapıştırın; isterseniz de listenin RAW linkini alın, filtre listeleri>özel>içe aktar kısmına yapıştırın, değişikleri uygulayın. Bu kadar.
+İster filtrelerim bölümüne gelin ve listeyi tamamen yapıştırın; isterseniz de listenin RAW linkini alın, filtre listeleri>özel>içe aktar kısmına yapıştırın, değişikleri uygulayın. Bu kadar. Güncellemeleri düzenli olarak alabilmeniz için ikincisi daha avantajlıdır.
