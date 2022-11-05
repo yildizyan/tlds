@@ -9,7 +9,9 @@ TLD'ler özellikle Türkiye'de sıkça kullanılmayan ve sıradan bir kullanıc�
 <br>This list was created to block the most abused TLDs in Turkey.
 
 # Liste (List)
-[List](https://github.com/yildizyan/tlds/blob/main/list)
+|Name|Raw link|Number of TLDs|
+| ---- | :------: | :---------------: |
+[Abused TLDs List](https://github.com/yildizyan/tlds/blob/main/abused-tlds-list)|[fly](https://raw.githubusercontent.com/yildizyan/tlds/main/abused-tlds-list)|43|
 
 # Nasıl yapıyoruz?
 TLD'leri hosts yöntemiyle engelleyemezsiniz. Joker karakter işe yaramayacaktır.
