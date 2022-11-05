@@ -11,7 +11,7 @@ TLD'ler özellikle Türkiye'de sıkça kullanılmayan ve sıradan bir kullanıc�
 # Liste (List)
 |Name|Raw link|Number of TLDs|
 | ---- | :------: | :---------------: |
-[Abused TLDs List](https://github.com/yildizyan/tlds/blob/main/abused-tlds-list)|[fly](https://raw.githubusercontent.com/yildizyan/tlds/main/abused-tlds-list)|43|
+[Abused TLDs List](https://github.com/yildizyan/tlds/blob/main/abused-tlds-list)|[fly](https://raw.githubusercontent.com/yildizyan/tlds/main/abused-tlds-list)|45|
 
 # Nasıl yapıyoruz?
 TLD'leri hosts yöntemiyle engelleyemezsiniz. Joker karakter işe yaramayacaktır.
